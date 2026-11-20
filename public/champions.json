@@ -1,0 +1,2040 @@
+{
+ "source": "https://www.mcoc.help/champions/",
+ "fetchedAt": "2026-11-19T09:32:29.953Z",
+ "champions": [
+  {
+   "id": "abomination",
+   "name": "Abomination",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Abomination_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830054937"
+  },
+  {
+   "id": "abomination-immortal",
+   "name": "Abomination (Immortal)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/25/Abomination_%28Immortal%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824220929"
+  },
+  {
+   "id": "absorbing-man",
+   "name": "Absorbing Man",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Absorbing_Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20230110022321"
+  },
+  {
+   "id": "adam-warlock",
+   "name": "Adam Warlock",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Adam_Warlock_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212613"
+  },
+  {
+   "id": "aegon",
+   "name": "Aegon",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6b/%C3%86gon_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824213702"
+  },
+  {
+   "id": "agatha-harkness",
+   "name": "Agatha Harkness",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Agatha_Harkness_portrait.png/revision/latest/scale-to-width-down/200?cb=20260804205908"
+  },
+  {
+   "id": "agent-venom",
+   "name": "Agent Venom",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Agent_Venom_portrait.png/revision/latest/scale-to-width-down/200?cb=20160415213207"
+  },
+  {
+   "id": "air-walker",
+   "name": "Air-Walker",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4c/Air-Walker_portrait.png/revision/latest/scale-to-width-down/200?cb=20200811105407"
+  },
+  {
+   "id": "america-chavez",
+   "name": "America Chavez",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/America_Chavez_portrait.png/revision/latest/scale-to-width-down/200?cb=20210710214158"
+  },
+  {
+   "id": "angela",
+   "name": "Angela",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2b/Angela_portrait.png/revision/latest/scale-to-width-down/200?cb=20170508052305"
+  },
+  {
+   "id": "annihilus",
+   "name": "Annihilus",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Annihilus_portrait.png/revision/latest/scale-to-width-down/200?cb=20190405185404"
+  },
+  {
+   "id": "ant-man",
+   "name": "Ant-Man",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d6/Ant-Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830055922"
+  },
+  {
+   "id": "ant-man-future",
+   "name": "Ant-Man (Future)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Ant-Man_%28Future%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230224215655"
+  },
+  {
+   "id": "anti-venom",
+   "name": "Anti-Venom",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Anti-Venom_portrait.png/revision/latest/scale-to-width-down/200?cb=20211007220510"
+  },
+  {
+   "id": "apocalypse",
+   "name": "Apocalypse",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Apocalypse_portrait.png/revision/latest/scale-to-width-down/200?cb=20200901193052"
+  },
+  {
+   "id": "arcade",
+   "name": "Arcade",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Arcade_portrait.png/revision/latest/scale-to-width-down/200?cb=20240617191516"
+  },
+  {
+   "id": "archangel",
+   "name": "Archangel",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6d/Archangel_portrait.png/revision/latest/scale-to-width-down/200?cb=20250411023139"
+  },
+  {
+   "id": "arnim-zola",
+   "name": "Arnim Zola",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ee/Arnim_Zola_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212223308"
+  },
+  {
+   "id": "attuma",
+   "name": "Attuma",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/02/Attuma_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215959"
+  },
+  {
+   "id": "baron-zemo",
+   "name": "Baron Zemo",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Baron_Zemo_portrait.png/revision/latest/scale-to-width-down/200?cb=20230110022329"
+  },
+  {
+   "id": "bastion",
+   "name": "Bastion",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Bastion_portrait.png/revision/latest/scale-to-width-down/200?cb=20250301045354"
+  },
+  {
+   "id": "beast",
+   "name": "Beast",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Beast_portrait.png/revision/latest/scale-to-width-down/200?cb=20160721192517"
+  },
+  {
+   "id": "beta-ray-bill",
+   "name": "Beta Ray Bill",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Beta_Ray_Bill_portrait.png/revision/latest/scale-to-width-down/200?cb=20240809134212"
+  },
+  {
+   "id": "bishop",
+   "name": "Bishop",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cb/Bishop_portrait.png/revision/latest/scale-to-width-down/200?cb=20180318235045"
+  },
+  {
+   "id": "black-bolt",
+   "name": "Black Bolt",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/ff/Black_Bolt_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830060831"
+  },
+  {
+   "id": "black-cat",
+   "name": "Black Cat",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Black_Cat_portrait.png/revision/latest/scale-to-width-down/200?cb=20220408213410"
+  },
+  {
+   "id": "black-panther",
+   "name": "Black Panther",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/58/Black_Panther_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212448"
+  },
+  {
+   "id": "black-panther-civil-war",
+   "name": "Black Panther (Civil War)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Black_Panther_%28Civil_War%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20160526170829"
+  },
+  {
+   "id": "black-tarantula",
+   "name": "Black Tarantula",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c1/Black_Tarantula_portrait.png/revision/latest/scale-to-width-down/200?cb=20260707214546"
+  },
+  {
+   "id": "black-widow",
+   "name": "Black Widow",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/46/Black_Widow_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830061401"
+  },
+  {
+   "id": "black-widow-claire-voyant",
+   "name": "Black Widow (Claire Voyant)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b3/Black_Widow_%28Claire_Voyant%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20190911110954"
+  },
+  {
+   "id": "black-widow-deadly-origin",
+   "name": "Black Widow (Deadly Origin)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/70/Black_Widow_%28Deadly_Origin%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825013524"
+  },
+  {
+   "id": "blade",
+   "name": "Blade",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3b/Blade_portrait.png/revision/latest/scale-to-width-down/200?cb=20170929021506"
+  },
+  {
+   "id": "blade-stellar-forged",
+   "name": "Blade (Stellar Forged)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e4/Blade_%28Stellar-Forged%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260406202459"
+  },
+  {
+   "id": "blue-marvel",
+   "name": "Blue Marvel",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Blue_Marvel_portrait.png/revision/latest/scale-to-width-down/200?cb=20260203121523"
+  },
+  {
+   "id": "bullseye",
+   "name": "Bullseye",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Bullseye_portrait.png/revision/latest/scale-to-width-down/200?cb=20240205233403"
+  },
+  {
+   "id": "cable",
+   "name": "Cable",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/49/Cable_portrait.png/revision/latest/scale-to-width-down/200?cb=20170121235311"
+  },
+  {
+   "id": "captain-america",
+   "name": "Captain America",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a1/Captain_America_portrait.png/revision/latest/scale-to-width-down/200?cb=20220105224719"
+  },
+  {
+   "id": "captain-america-infinity-war",
+   "name": "Captain America (Infinity War)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/db/Captain_America_%28Infinity_War%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824232134"
+  },
+  {
+   "id": "captain-america-sam-wilson",
+   "name": "Captain America (Sam Wilson)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Captain_America_%28Sam_Wilson%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20220211200752"
+  },
+  {
+   "id": "captain-america-wwii",
+   "name": "Captain America (WWII)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Captain_America_%28WWII%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830061659"
+  },
+  {
+   "id": "captain-britain",
+   "name": "Captain Britain",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3f/Captain_Britain_portrait.png/revision/latest/scale-to-width-down/200?cb=20220317220656"
+  },
+  {
+   "id": "captain-marvel",
+   "name": "Captain Marvel",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Captain_Marvel_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825004507"
+  },
+  {
+   "id": "captain-marvel-classic",
+   "name": "Captain Marvel (Classic)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c7/Captain_Marvel_%28Classic%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830061726"
+  },
+  {
+   "id": "carina-tivan",
+   "name": "Carina Tivan",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d9/Carina_portrait.png/revision/latest/scale-to-width-down/200?cb=20261015100138"
+  },
+  {
+   "id": "carnage",
+   "name": "Carnage",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Carnage_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824234332"
+  },
+  {
+   "id": "cassandra-nova",
+   "name": "Cassandra Nova",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/27/Cassandra_Nova_portrait.png/revision/latest/scale-to-width-down/200?cb=20250904111750"
+  },
+  {
+   "id": "cassie-lang",
+   "name": "Cassie Lang",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/68/Cassie_Lang_portrait.png/revision/latest/scale-to-width-down/200?cb=20230224215706"
+  },
+  {
+   "id": "cheeilth",
+   "name": "Chee'ilth",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/46/Chee%27ilth_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115230751"
+  },
+  {
+   "id": "civil-warrior",
+   "name": "Civil Warrior",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Civil_Warrior_portrait.png/revision/latest/scale-to-width-down/200?cb=20161210205544"
+  },
+  {
+   "id": "colossus",
+   "name": "Colossus",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Colossus_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212224102"
+  },
+  {
+   "id": "colossus-age-of-apocalypse",
+   "name": "Colossus (Age of Apocalypse)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Colossus_%28Age_of_Apocalypse%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261009110529"
+  },
+  {
+   "id": "corvus-glaive",
+   "name": "Corvus Glaive",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Corvus_Glaive_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824214509"
+  },
+  {
+   "id": "cosmic-ghost-rider",
+   "name": "Cosmic Ghost Rider",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Cosmic_Ghost_Rider_portrait.png/revision/latest/scale-to-width-down/200?cb=20201005205101"
+  },
+  {
+   "id": "count-nefaria",
+   "name": "Count Nefaria",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Count_Nefaria_portrait.png/revision/latest/scale-to-width-down/200?cb=20241008062135"
+  },
+  {
+   "id": "crossbones",
+   "name": "Crossbones",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Crossbones_portrait.png/revision/latest/scale-to-width-down/200?cb=20160512202654"
+  },
+  {
+   "id": "cull-obsidian",
+   "name": "Cull Obsidian",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Cull_Obsidian_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824231246"
+  },
+  {
+   "id": "cyclops-blue-team",
+   "name": "Cyclops (Blue Team)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a0/Cyclops_%28Blue_Team%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20250506034534"
+  },
+  {
+   "id": "cyclops-new-xavier-school",
+   "name": "Cyclops (New Xavier School)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Cyclops_%28New_Xavier_School%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830065142"
+  },
+  {
+   "id": "dani-moonstar",
+   "name": "Dani Moonstar",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Dani_Moonstar_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215234"
+  },
+  {
+   "id": "daredevil-classic",
+   "name": "Daredevil (Classic)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b6/Daredevil_%28Classic%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830065242"
+  },
+  {
+   "id": "daredevil-hells-kitchen",
+   "name": "Daredevil (Hell's Kitchen)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Daredevil_%28Hell%27s_Kitchen%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20151120152135"
+  },
+  {
+   "id": "dark-phoenix",
+   "name": "Dark Phoenix",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/51/Dark_Phoenix_portrait.png/revision/latest/scale-to-width-down/200?cb=20250506034438"
+  },
+  {
+   "id": "darkhawk",
+   "name": "Darkhawk",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Darkhawk_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824231147"
+  },
+  {
+   "id": "dazzler",
+   "name": "Dazzler",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/72/Dazzler_portrait.png/revision/latest/scale-to-width-down/200?cb=20250120125053"
+  },
+  {
+   "id": "deadpool",
+   "name": "Deadpool",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Deadpool_portrait.png/revision/latest/scale-to-width-down/200?cb=20240902210725"
+  },
+  {
+   "id": "deadpool-x-force",
+   "name": "Deadpool (X-Force)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cb/Deadpool_%28X-Force%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118000159"
+  },
+  {
+   "id": "diablo",
+   "name": "Diablo",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ea/Diablo_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824223141"
+  },
+  {
+   "id": "doctor-bong",
+   "name": "Doctor Bong",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Doctor_Bong_portrait.png/revision/latest/scale-to-width-down/200?cb=20260406202442"
+  },
+  {
+   "id": "doctor-doom",
+   "name": "Doctor Doom",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Doctor_Doom_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824214057"
+  },
+  {
+   "id": "doctor-doom-stellar-forged",
+   "name": "Doctor Doom (Stellar-Forged)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Doctor_Doom_%28Stellar-Forged%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065110"
+  },
+  {
+   "id": "doctor-octopus",
+   "name": "Doctor Octopus",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Doctor_Octopus_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824223005"
+  },
+  {
+   "id": "doctor-strange",
+   "name": "Doctor Strange",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Doctor_Strange_portrait.png/revision/latest/scale-to-width-down/200?cb=20260106195941"
+  },
+  {
+   "id": "doctor-voodoo",
+   "name": "Doctor Voodoo",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Doctor_Voodoo_portrait.png/revision/latest/scale-to-width-down/200?cb=20161125010645"
+  },
+  {
+   "id": "domino",
+   "name": "Domino",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Domino_portrait.png/revision/latest/scale-to-width-down/200?cb=20180630174513"
+  },
+  {
+   "id": "dormammu",
+   "name": "Dormammu",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7f/Dormammu_portrait.png/revision/latest/scale-to-width-down/200?cb=20180916134734"
+  },
+  {
+   "id": "dracula",
+   "name": "Dracula",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Dracula_portrait.png/revision/latest/scale-to-width-down/200?cb=20251006233210"
+  },
+  {
+   "id": "dragon-man",
+   "name": "Dragon Man",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4e/Dragon_Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825005128"
+  },
+  {
+   "id": "drax",
+   "name": "Drax",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f2/Drax_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830065434"
+  },
+  {
+   "id": "dust",
+   "name": "Dust",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Dust_portrait.png/revision/latest/scale-to-width-down/200?cb=20250411031843"
+  },
+  {
+   "id": "ebony-maw",
+   "name": "Ebony Maw",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/99/Ebony_Maw_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212927"
+  },
+  {
+   "id": "electro",
+   "name": "Electro",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9c/Electro_portrait.png/revision/latest/scale-to-width-down/200?cb=20161107000842"
+  },
+  {
+   "id": "elektra",
+   "name": "Elektra",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/eb/Elektra_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830065710"
+  },
+  {
+   "id": "elsa-bloodstone",
+   "name": "Elsa Bloodstone",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/50/Elsa_Bloodstone_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215039"
+  },
+  {
+   "id": "emma-frost",
+   "name": "Emma Frost",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f5/Emma_Frost_portrait.png/revision/latest/scale-to-width-down/200?cb=20180906162316"
+  },
+  {
+   "id": "enchantress",
+   "name": "Enchantress",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/34/Enchantress_portrait.png/revision/latest/scale-to-width-down/200?cb=20250120125521"
+  },
+  {
+   "id": "falcon",
+   "name": "Falcon",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Falcon_portrait.png/revision/latest/scale-to-width-down/200?cb=20160609195120"
+  },
+  {
+   "id": "falcon-joaquin-torres",
+   "name": "Falcon (Joaquin Torres)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Falcon_%28Joaqu%C3%ADn_Torres%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212223326"
+  },
+  {
+   "id": "franken-castle",
+   "name": "Franken-Castle",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8d/Franken-Castle_portrait.png/revision/latest/scale-to-width-down/200?cb=20251006233416"
+  },
+  {
+   "id": "galan",
+   "name": "Galan",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5c/Galan_portrait.png/revision/latest/scale-to-width-down/200?cb=20220817213037"
+  },
+  {
+   "id": "gambit",
+   "name": "Gambit",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Gambit_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212224326"
+  },
+  {
+   "id": "gamora",
+   "name": "Gamora",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8e/Gamora_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830065747"
+  },
+  {
+   "id": "gentle",
+   "name": "Gentle",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Gentle_portrait.png/revision/latest/scale-to-width-down/200?cb=20250114130635"
+  },
+  {
+   "id": "ghost",
+   "name": "Ghost",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Ghost_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824222814"
+  },
+  {
+   "id": "ghost-rider",
+   "name": "Ghost Rider",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Ghost_Rider_portrait.png/revision/latest/scale-to-width-down/200?cb=20260504222859"
+  },
+  {
+   "id": "ghost-rider-robbie-reyes",
+   "name": "Ghost Rider (Robbie Reyes)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4a/Ghost_Rider_%28Robbie_Reyes%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261015092748"
+  },
+  {
+   "id": "gladiator",
+   "name": "Gladiator",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Gladiator_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115112842"
+  },
+  {
+   "id": "goldpool",
+   "name": "Goldpool",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Goldpool_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824223319"
+  },
+  {
+   "id": "gorr",
+   "name": "Gorr",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Gorr_portrait.png/revision/latest/scale-to-width-down/200?cb=20220708201853"
+  },
+  {
+   "id": "green-goblin",
+   "name": "Green Goblin",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Green_Goblin_portrait.png/revision/latest/scale-to-width-down/200?cb=20170804041726"
+  },
+  {
+   "id": "green-goblin-stellar-forged",
+   "name": "Green Goblin (Stellar Forged)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1e/Green_Goblin_%28Stellar-Forged%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260912210202"
+  },
+  {
+   "id": "groot",
+   "name": "Groot",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f3/Groot_portrait.png/revision/latest/scale-to-width-down/200?cb=20151224184045"
+  },
+  {
+   "id": "guardian",
+   "name": "Guardian",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1c/Guardian_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825001120"
+  },
+  {
+   "id": "guillotine",
+   "name": "Guillotine",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/76/Guillotine_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118003034"
+  },
+  {
+   "id": "guillotine-2099",
+   "name": "Guillotine 2099",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Guillotine_2099_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824211019"
+  },
+  {
+   "id": "guillotine-deathless",
+   "name": "Guillotine (Deathless)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Guillotine_%28Deathless%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20231208154204"
+  },
+  {
+   "id": "gwenom",
+   "name": "Gwenom",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Gwenom_portrait.png/revision/latest/scale-to-width-down/200?cb=20260912210535"
+  },
+  {
+   "id": "gwenpool",
+   "name": "Gwenpool",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bd/Gwenpool_portrait.png/revision/latest/scale-to-width-down/200?cb=20170108045032"
+  },
+  {
+   "id": "havok",
+   "name": "Havok",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/32/Havok_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824211753"
+  },
+  {
+   "id": "hawkeye",
+   "name": "Hawkeye",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Hawkeye_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830062124"
+  },
+  {
+   "id": "heimdall",
+   "name": "Heimdall",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Heimdall_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825004302"
+  },
+  {
+   "id": "hela",
+   "name": "Hela",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/57/Hela_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824231750"
+  },
+  {
+   "id": "hercules",
+   "name": "Hercules",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/06/Hercules_portrait.png/revision/latest/scale-to-width-down/200?cb=20210710214126"
+  },
+  {
+   "id": "high-evolutionary",
+   "name": "High Evolutionary",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/73/High_Evolutionary_portrait.png/revision/latest/scale-to-width-down/200?cb=20250725053128"
+  },
+  {
+   "id": "hit-monkey",
+   "name": "Hit-Monkey",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Hit-Monkey_portrait.png/revision/latest/scale-to-width-down/200?cb=20200602111957"
+  },
+  {
+   "id": "hobgoblin",
+   "name": "Hobgoblin (Phil Urich)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/07/Hobgoblin_%28Phil_Urich%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260711000000"
+  },
+  {
+   "id": "howard-the-duck",
+   "name": "Howard The Duck",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cd/Howard_the_Duck_portrait.png/revision/latest/scale-to-width-down/200?cb=20161222205206"
+  },
+  {
+   "id": "hulk",
+   "name": "Hulk",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Hulk_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118002756"
+  },
+  {
+   "id": "hulk-immortal",
+   "name": "Hulk (Immortal)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/85/Hulk_%28Immortal%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20201105205432"
+  },
+  {
+   "id": "hulk-ragnarok",
+   "name": "Hulk (Ragnarok)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b2/Hulk_%28Ragnarok%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20180401181436"
+  },
+  {
+   "id": "hulkbuster",
+   "name": "Hulkbuster",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Hulkbuster_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830074153"
+  },
+  {
+   "id": "hulkling",
+   "name": "Hulkling",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Hulkling_portrait.png/revision/latest/scale-to-width-down/200?cb=20220607151539"
+  },
+  {
+   "id": "human-torch",
+   "name": "Human Torch",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7e/Human_Torch_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824235955"
+  },
+  {
+   "id": "human-torch-victorious",
+   "name": "Human Torch (Victorious)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Human_Torch_%28Victorious%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065227"
+  },
+  {
+   "id": "hyperion",
+   "name": "Hyperion",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/da/Hyperion_portrait.png/revision/latest/scale-to-width-down/200?cb=20161208231528"
+  },
+  {
+   "id": "iceman",
+   "name": "Iceman",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Iceman_portrait.png/revision/latest/scale-to-width-down/200?cb=20170508052441"
+  },
+  {
+   "id": "ikaris",
+   "name": "Ikaris",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/Ikaris_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824213459"
+  },
+  {
+   "id": "imperiosa",
+   "name": "Imperiosa",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/52/Imperiosa_portrait.png/revision/latest/scale-to-width-down/200?cb=20251209075344"
+  },
+  {
+   "id": "invisible-woman",
+   "name": "Invisible Woman",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Invisible_Woman_portrait.png/revision/latest/scale-to-width-down/200?cb=20190607071428"
+  },
+  {
+   "id": "invisible-woman-victorious",
+   "name": "Invisible Woman (Victorious)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Invisible_Woman_%28Victorious%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065239"
+  },
+  {
+   "id": "iron-fist",
+   "name": "Iron Fist",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Iron_Fist_portrait.png/revision/latest/scale-to-width-down/200?cb=20150825223034"
+  },
+  {
+   "id": "iron-fist-immortal",
+   "name": "Iron Fist (Immortal)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Iron_Fist_%28Immortal%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20151121222555"
+  },
+  {
+   "id": "iron-man",
+   "name": "Iron Man",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Iron_Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20230907090031"
+  },
+  {
+   "id": "iron-man-infamous",
+   "name": "Iron Man (Infamous)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5d/Iron_Man_%28Infamous%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20220911202035"
+  },
+  {
+   "id": "iron-man-infinity-war",
+   "name": "Iron Man (Infinity War)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Iron_Man_%28Infinity_War%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20180808000823"
+  },
+  {
+   "id": "iron-patriot",
+   "name": "Iron Patriot",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/07/Iron_Patriot_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830074335"
+  },
+  {
+   "id": "ironheart",
+   "name": "Ironheart",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Ironheart_portrait.png/revision/latest/scale-to-width-down/200?cb=20240228025344"
+  },
+  {
+   "id": "isophyne",
+   "name": "Isophyne",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/59/Isophyne_portrait.png/revision/latest/scale-to-width-down/200?cb=20241217032559"
+  },
+  {
+   "id": "jabari-panther",
+   "name": "Jabari Panther",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/65/Jabari_Panther_portrait.png/revision/latest/scale-to-width-down/200?cb=20210406135800"
+  },
+  {
+   "id": "jack-olantern",
+   "name": "Jack O'Lantern",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Jack_O%27Lantern_portrait.png/revision/latest/scale-to-width-down/200?cb=20241009004842"
+  },
+  {
+   "id": "jean-grey",
+   "name": "Jean Grey",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/26/Jean_Grey_portrait.png/revision/latest/scale-to-width-down/200?cb=20250301045405"
+  },
+  {
+   "id": "jessica-jones",
+   "name": "Jessica Jones",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b0/Jessica_Jones_portrait.png/revision/latest/scale-to-width-down/200?cb=20221209145832"
+  },
+  {
+   "id": "joe-fixit",
+   "name": "Joe Fixit",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c5/Joe_Fixit_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118003053"
+  },
+  {
+   "id": "jubilee",
+   "name": "Jubilee",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Jubilee_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824234159"
+  },
+  {
+   "id": "juggernaut",
+   "name": "Juggernaut",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/38/Juggernaut_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830074406"
+  },
+  {
+   "id": "kang-the-conqueror",
+   "name": "Kang the Conqueror",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/08/Kang_the_Conqueror_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830174024"
+  },
+  {
+   "id": "karnak",
+   "name": "Karnak",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Karnak_portrait.png/revision/latest/scale-to-width-down/200?cb=20160901205842"
+  },
+  {
+   "id": "karolina-dean",
+   "name": "Karolina Dean",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/be/Karolina_Dean_portrait.png/revision/latest/scale-to-width-down/200?cb=20250603103703"
+  },
+  {
+   "id": "kate-bishop",
+   "name": "Kate Bishop",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bc/Kate_Bishop_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212305"
+  },
+  {
+   "id": "killmonger",
+   "name": "Killmonger",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Killmonger_portrait.png/revision/latest/scale-to-width-down/200?cb=20180218072638"
+  },
+  {
+   "id": "kindred",
+   "name": "Kindred",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a2/Kindred_portrait.png/revision/latest/scale-to-width-down/200?cb=20230805193931"
+  },
+  {
+   "id": "king-groot",
+   "name": "King Groot",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/16/King_Groot_portrait.png/revision/latest/scale-to-width-down/200?cb=20170709021739"
+  },
+  {
+   "id": "king-groot-deathless",
+   "name": "King Groot (Deathless)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/King_Groot_%28Deathless%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20240406082835"
+  },
+  {
+   "id": "kingpin",
+   "name": "Kingpin",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a3/Kingpin_portrait.png/revision/latest/scale-to-width-down/200?cb=20170901041448"
+  },
+  {
+   "id": "kitty-pryde",
+   "name": "Kitty Pryde",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/05/Kitty_Pryde_portrait.png/revision/latest/scale-to-width-down/200?cb=20210831173518"
+  },
+  {
+   "id": "knull",
+   "name": "Knull",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6a/Knull_portrait.png/revision/latest/scale-to-width-down/200?cb=20211007220538"
+  },
+  {
+   "id": "korg",
+   "name": "Korg",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/ba/Korg_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824210824"
+  },
+  {
+   "id": "kraven",
+   "name": "Kraven",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9c/Kraven_portrait.png/revision/latest/scale-to-width-down/200?cb=20211205203446"
+  },
+  {
+   "id": "kushala",
+   "name": "Kushala",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8b/Kushala_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115112203"
+  },
+  {
+   "id": "lady-deathstrike",
+   "name": "Lady Deathstrike",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e1/Lady_Deathstrike_portrait.png/revision/latest/scale-to-width-down/200?cb=20230624204719"
+  },
+  {
+   "id": "lizard",
+   "name": "Lizard",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ad/Lizard_portrait.png/revision/latest/scale-to-width-down/200?cb=20251104193052"
+  },
+  {
+   "id": "loki",
+   "name": "Loki",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Loki_portrait.png/revision/latest/scale-to-width-down/200?cb=20160804212646"
+  },
+  {
+   "id": "longshot",
+   "name": "Longshot",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/05/Longshot_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825000532"
+  },
+  {
+   "id": "luke-cage",
+   "name": "Luke Cage",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Luke_Cage_portrait.png/revision/latest/scale-to-width-down/200?cb=20151124224025"
+  },
+  {
+   "id": "lumatrix",
+   "name": "Lumatrix",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/98/Lumatrix_portrait.png/revision/latest/scale-to-width-down/200?cb=20250408214026"
+  },
+  {
+   "id": "madelyne-pryor",
+   "name": "Madelyne Pryor",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ab/Madelyne_Pryor_portrait.png/revision/latest/scale-to-width-down/200?cb=20260303231209"
+  },
+  {
+   "id": "maestro",
+   "name": "Maestro",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7a/Maestro_portrait.png/revision/latest/scale-to-width-down/200?cb=20160108233515"
+  },
+  {
+   "id": "magik",
+   "name": "Magik",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Magik_portrait.png/revision/latest/scale-to-width-down/200?cb=20260303231322"
+  },
+  {
+   "id": "magneto",
+   "name": "Magneto",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9b/Magneto_portrait.png/revision/latest/scale-to-width-down/200?cb=20250305233715"
+  },
+  {
+   "id": "magneto-house-of-x",
+   "name": "Magneto (House of X)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/64/Magneto_%28House_of_X%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830054856"
+  },
+  {
+   "id": "man-thing",
+   "name": "Man-Thing",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/73/Man-Thing_portrait.png/revision/latest/scale-to-width-down/200?cb=20191003073839"
+  },
+  {
+   "id": "mangog",
+   "name": "Mangog",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/63/Mangog_portrait.png/revision/latest/scale-to-width-down/200?cb=20210307223254"
+  },
+  {
+   "id": "mantis",
+   "name": "Mantis",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Mantis_portrait.png/revision/latest/scale-to-width-down/200?cb=20221209150046"
+  },
+  {
+   "id": "masacre",
+   "name": "Masacre",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Masacre_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824233103"
+  },
+  {
+   "id": "mbaku",
+   "name": "M'Baku",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/65/M%27Baku_portrait.png/revision/latest/scale-to-width-down/200?cb=20260203121626"
+  },
+  {
+   "id": "medusa",
+   "name": "Medusa",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Medusa_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824235527"
+  },
+  {
+   "id": "mephisto",
+   "name": "Mephisto",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Mephisto_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824221353"
+  },
+  {
+   "id": "mister-fantastic",
+   "name": "Mister Fantastic",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/Mister_Fantastic_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824213304"
+  },
+  {
+   "id": "mister-fantastic-victorious",
+   "name": "Mister Fantastic (Victorious)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Mister_Fantastic_%28Victorious%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065259"
+  },
+  {
+   "id": "mister-negative",
+   "name": "Mister Negative",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Mister_Negative_portrait.png/revision/latest/scale-to-width-down/200?cb=20210508193242"
+  },
+  {
+   "id": "mister-sinister",
+   "name": "Mister Sinister",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Mister_Sinister_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824233517"
+  },
+  {
+   "id": "misty-knight",
+   "name": "Misty Knight",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Misty_Knight_portrait.png/revision/latest/scale-to-width-down/200?cb=20220211200835"
+  },
+  {
+   "id": "modok",
+   "name": "M.O.D.O.K.",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/M.O.D.O.K._portrait.png/revision/latest/scale-to-width-down/200?cb=20171209233126"
+  },
+  {
+   "id": "mojo",
+   "name": "Mojo",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/85/Mojo_portrait.png/revision/latest/scale-to-width-down/200?cb=20200204105013"
+  },
+  {
+   "id": "mole-man",
+   "name": "Mole Man",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cf/Mole_Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824235426"
+  },
+  {
+   "id": "moon-knight",
+   "name": "Moon Knight",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Moon_Knight_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118002943"
+  },
+  {
+   "id": "moondragon",
+   "name": "Moondragon",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e3/Moondragon_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824222212"
+  },
+  {
+   "id": "morbius",
+   "name": "Morbius",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1f/Morbius_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115103807"
+  },
+  {
+   "id": "mordo",
+   "name": "Mordo",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Mordo_portrait.png/revision/latest/scale-to-width-down/200?cb=20161116020128"
+  },
+  {
+   "id": "morningstar",
+   "name": "Morningstar",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/48/Morningstar_portrait.png/revision/latest/scale-to-width-down/200?cb=20230825000642"
+  },
+  {
+   "id": "mr-knight",
+   "name": "Mr. Knight",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6c/Mr._Knight_portrait.png/revision/latest/scale-to-width-down/200?cb=20250904112100"
+  },
+  {
+   "id": "ms-marvel",
+   "name": "Ms. Marvel",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ec/Ms._Marvel_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830074710"
+  },
+  {
+   "id": "ms-marvel-kamala-khan",
+   "name": "Ms. Marvel (Kamala Khan)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Ms._Marvel_%28Kamala_Khan%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20160331143709"
+  },
+  {
+   "id": "mysterio",
+   "name": "Mysterio",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Mysterio_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824233236"
+  },
+  {
+   "id": "namor",
+   "name": "Namor",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a4/Namor_portrait.png/revision/latest/scale-to-width-down/200?cb=20190607071149"
+  },
+  {
+   "id": "nebula",
+   "name": "Nebula",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5b/Nebula_portrait.png/revision/latest/scale-to-width-down/200?cb=20170709021529"
+  },
+  {
+   "id": "negasonic-teenage-warhead",
+   "name": "Negasonic Teenage Warhead",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Negasonic_Teenage_Warhead_portrait.png/revision/latest/scale-to-width-down/200?cb=20240509201251"
+  },
+  {
+   "id": "nick-fury",
+   "name": "Nick Fury",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Nick_Fury_portrait.png/revision/latest/scale-to-width-down/200?cb=20190315094359"
+  },
+  {
+   "id": "nico-minoru",
+   "name": "Nico Minoru",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9d/Nico_Minoru_portrait.png/revision/latest/scale-to-width-down/200?cb=20250603103720"
+  },
+  {
+   "id": "night-thrasher",
+   "name": "Night Thrasher",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e5/Night_Thrasher_portrait.png/revision/latest/scale-to-width-down/200?cb=20181205153201"
+  },
+  {
+   "id": "nightcrawler",
+   "name": "Nightcrawler",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0e/Nightcrawler_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212224527"
+  },
+  {
+   "id": "nimrod",
+   "name": "Nimrod",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/11/Nimrod_portrait.png/revision/latest/scale-to-width-down/200?cb=20210831173538"
+  },
+  {
+   "id": "northstar",
+   "name": "Northstar",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/Northstar_portrait.png/revision/latest/scale-to-width-down/200?cb=20240617191257"
+  },
+  {
+   "id": "nova",
+   "name": "Nova",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Nova_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824214253"
+  },
+  {
+   "id": "odin",
+   "name": "Odin",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest/scale-to-width-down/200?cb=20210307223313"
+  },
+  {
+   "id": "okoye",
+   "name": "Okoye",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Okoye_portrait.png/revision/latest/scale-to-width-down/200?cb=20250114130713"
+  },
+  {
+   "id": "old-man-logan",
+   "name": "Old Man Logan",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9d/Old_Man_Logan_portrait.png/revision/latest/scale-to-width-down/200?cb=20160205150825"
+  },
+  {
+   "id": "omega-red",
+   "name": "Omega Red",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/29/Omega_Red_portrait.png/revision/latest/scale-to-width-down/200?cb=20180906162026"
+  },
+  {
+   "id": "omega-sentinel",
+   "name": "Omega Sentinel",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Omega_Sentinel_portrait.png/revision/latest/scale-to-width-down/200?cb=20220317220633"
+  },
+  {
+   "id": "onslaught",
+   "name": "Onslaught",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/86/Onslaught_portrait.png/revision/latest/scale-to-width-down/200?cb=20231208154140"
+  },
+  {
+   "id": "patriot",
+   "name": "Patriot",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Patriot_portrait.png/revision/latest/scale-to-width-down/200?cb=20240730014323"
+  },
+  {
+   "id": "peni-parker",
+   "name": "Peni Parker",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/ed/Peni_Parker_portrait.png/revision/latest/scale-to-width-down/200?cb=20210814015831"
+  },
+  {
+   "id": "phoenix",
+   "name": "Phoenix",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e7/Phoenix_portrait.png/revision/latest/scale-to-width-down/200?cb=20250506034612"
+  },
+  {
+   "id": "photon",
+   "name": "Photon",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d3/Photon_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824231549"
+  },
+  {
+   "id": "phyla-vell",
+   "name": "Phyla-Vell",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d0/Phyla-Vell_portrait.png/revision/latest/scale-to-width-down/200?cb=20260711000000"
+  },
+  {
+   "id": "pixie",
+   "name": "Pixie",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Pixie_portrait.png/revision/latest/scale-to-width-down/200?cb=20260307065211"
+  },
+  {
+   "id": "platinum-pool",
+   "name": "Platinum Pool",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/aa/Goldpool_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824223319"
+  },
+  {
+   "id": "professor-x",
+   "name": "Professor X",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dc/Professor_X_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824222600"
+  },
+  {
+   "id": "prowler",
+   "name": "Prowler",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Prowler_portrait.png/revision/latest/scale-to-width-down/200?cb=20250224140813"
+  },
+  {
+   "id": "proxima-midnight",
+   "name": "Proxima Midnight",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/13/Proxima_Midnight_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824233930"
+  },
+  {
+   "id": "psycho-man",
+   "name": "Psycho-Man",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/03/Psycho-Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824220816"
+  },
+  {
+   "id": "psylocke",
+   "name": "Psylocke",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d8/Psylocke_portrait.png/revision/latest/scale-to-width-down/200?cb=20170508054518"
+  },
+  {
+   "id": "punisher",
+   "name": "Punisher",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Punisher_portrait.png/revision/latest/scale-to-width-down/200?cb=20251209211031"
+  },
+  {
+   "id": "punisher-2099",
+   "name": "Punisher 2099",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fe/Punisher_2099_portrait.png/revision/latest/scale-to-width-down/200?cb=20170709021327"
+  },
+  {
+   "id": "purgatory",
+   "name": "Purgatory",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bb/Purgatory_portrait.png/revision/latest/scale-to-width-down/200?cb=20210531201227"
+  },
+  {
+   "id": "quake",
+   "name": "Quake",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/Quake_portrait.png/revision/latest/scale-to-width-down/200?cb=20160920215011"
+  },
+  {
+   "id": "quicksilver",
+   "name": "QuickSilver",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2e/Quicksilver_portrait.png/revision/latest/scale-to-width-down/200?cb=20220817213111"
+  },
+  {
+   "id": "red-goblin",
+   "name": "Red Goblin",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/eb/Red_Goblin_portrait.png/revision/latest/scale-to-width-down/200?cb=20201005205130"
+  },
+  {
+   "id": "red-guardian",
+   "name": "Red Guardian",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b8/Red_Guardian_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824234530"
+  },
+  {
+   "id": "red-hulk",
+   "name": "Red Hulk",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/cc/Red_Hulk_portrait.png/revision/latest/scale-to-width-down/200?cb=20160428201849"
+  },
+  {
+   "id": "red-skull",
+   "name": "Red Skull",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/89/Red_Skull_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824211219"
+  },
+  {
+   "id": "rhino",
+   "name": "Rhino",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Rhino_portrait.png/revision/latest/scale-to-width-down/200?cb=20251006235515"
+  },
+  {
+   "id": "rintrah",
+   "name": "Rintrah",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Rintrah_portrait.png/revision/latest/scale-to-width-down/200?cb=20220505220651"
+  },
+  {
+   "id": "rocket-raccoon",
+   "name": "Rocket Raccoon",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/01/Rocket_Raccoon_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075026"
+  },
+  {
+   "id": "rogue",
+   "name": "Rogue",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Rogue_portrait.png/revision/latest/scale-to-width-down/200?cb=20160917030600"
+  },
+  {
+   "id": "ronan",
+   "name": "Ronan",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1d/Ronan_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075114"
+  },
+  {
+   "id": "ronin",
+   "name": "Ronin",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Ronin_portrait.png/revision/latest/scale-to-width-down/200?cb=20190424222933"
+  },
+  {
+   "id": "ruby-thursday",
+   "name": "Ruby Thursday",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Ruby_Thursday_portrait.png/revision/latest/scale-to-width-down/200?cb=20260411024759"
+  },
+  {
+   "id": "sabretooth",
+   "name": "Sabretooth",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/44/Sabretooth_portrait.png/revision/latest/scale-to-width-down/200?cb=20180329224644"
+  },
+  {
+   "id": "sandman",
+   "name": "Sandman",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Sandman_portrait.png/revision/latest/scale-to-width-down/200?cb=20230410205643"
+  },
+  {
+   "id": "sasquatch",
+   "name": "Sasquatch",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e6/Sasquatch_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824213940"
+  },
+  {
+   "id": "sauron",
+   "name": "Sauron",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Sauron_portrait.png/revision/latest/scale-to-width-down/200?cb=20220105220349"
+  },
+  {
+   "id": "scarlet-witch-classic",
+   "name": "Scarlet Witch (Classic)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Scarlet_Witch_%28Classic%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075311"
+  },
+  {
+   "id": "scarlet-witch-sigil",
+   "name": "Scarlet Witch (Sigil)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/00/Scarlet_Witch_portrait.png/revision/latest/scale-to-width-down/200?cb=20201222212449"
+  },
+  {
+   "id": "scorpion",
+   "name": "Scorpion",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Scorpion_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212744"
+  },
+  {
+   "id": "scream",
+   "name": "Scream",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Scream_portrait.png/revision/latest/scale-to-width-down/200?cb=20241009004744"
+  },
+  {
+   "id": "sentinel",
+   "name": "Sentinel",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4d/Sentinel_portrait.png/revision/latest/scale-to-width-down/200?cb=20180401181725"
+  },
+  {
+   "id": "sentry",
+   "name": "Sentry",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Sentry_portrait.png/revision/latest/scale-to-width-down/200?cb=20180106181534"
+  },
+  {
+   "id": "sersi",
+   "name": "Sersi",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2f/Sersi_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824235703"
+  },
+  {
+   "id": "shang-chi",
+   "name": "Shang Chi",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/40/Shang-Chi_portrait.png/revision/latest/scale-to-width-down/200?cb=20210508193308"
+  },
+  {
+   "id": "shathra",
+   "name": "Shathra",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b0/Shathra_portrait.png/revision/latest/scale-to-width-down/200?cb=20250120125911"
+  },
+  {
+   "id": "shatterstar",
+   "name": "Shatterstar",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/77/Shatterstar_portrait.png/revision/latest/scale-to-width-down/200?cb=20260711000000"
+  },
+  {
+   "id": "she-hulk",
+   "name": "She-Hulk",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/28/She-Hulk_portrait.png/revision/latest/scale-to-width-down/200?cb=20241029142645"
+  },
+  {
+   "id": "she-hulk-deathless",
+   "name": "She-Hulk (Deathless)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/She-Hulk_%28Deathless%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20241029142306"
+  },
+  {
+   "id": "shocker",
+   "name": "Shocker",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Shocker_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215709"
+  },
+  {
+   "id": "shuri",
+   "name": "Shuri",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/87/Shuri_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215831"
+  },
+  {
+   "id": "silk",
+   "name": "Silk",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/76/Silk_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824210452"
+  },
+  {
+   "id": "silver-centurion",
+   "name": "Silver Centurion",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e8/Silver_Centurion_portrait.png/revision/latest/scale-to-width-down/200?cb=20210406135822"
+  },
+  {
+   "id": "silver-sable",
+   "name": "Silver Sable",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f6/Silver_Sable_portrait.png/revision/latest/scale-to-width-down/200?cb=20240909013727"
+  },
+  {
+   "id": "silver-samurai",
+   "name": "Silver Samurai",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/fd/Silver_Samurai_portrait.png/revision/latest/scale-to-width-down/200?cb=20250904112119"
+  },
+  {
+   "id": "silver-surfer",
+   "name": "Silver Surfer",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d7/Silver_Surfer_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115105221"
+  },
+  {
+   "id": "solvarch",
+   "name": "Solvarch",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/7b/Solvarch_portrait.png/revision/latest/scale-to-width-down/200?cb=20250904111720"
+  },
+  {
+   "id": "sorcerer-supreme",
+   "name": "Sorcerer Supreme",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/12/Sorcerer_Supreme_portrait.png/revision/latest/scale-to-width-down/200?cb=20200331153426"
+  },
+  {
+   "id": "spider-gwen",
+   "name": "Spider-Gwen",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c6/Spider-Gwen_portrait.png/revision/latest/scale-to-width-down/200?cb=20151118003158"
+  },
+  {
+   "id": "spider-ham",
+   "name": "Spider-Ham",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/54/Spider-Ham_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215544"
+  },
+  {
+   "id": "spider-man-2099",
+   "name": "Spider Man 2099",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/81/Spider-Man_2099_portrait.png/revision/latest/scale-to-width-down/200?cb=20210814015916"
+  },
+  {
+   "id": "spider-man-classic",
+   "name": "Spider-Man (Classic)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0b/Spider-Man_%28Classic%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824215359"
+  },
+  {
+   "id": "spider-man-miles-morales",
+   "name": "Spider man (Miles Morales)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e0/Spider-Man_%28Miles_Morales%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20160108034734"
+  },
+  {
+   "id": "spider-man-noir",
+   "name": "Spider-Man Noir",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/30/Spider-Man_Noir_portrait.png/revision/latest/scale-to-width-down/200?cb=20260912211214"
+  },
+  {
+   "id": "spider-man-pavitr-prabhakar",
+   "name": "Spider-Man (Pavitr Prabhakar)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/83/Spider-Man_%28Pavitr_Prabhakar%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20251104193111"
+  },
+  {
+   "id": "spider-man-stark-enhanced",
+   "name": "Spider Man (Stark Enhanced)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a9/Spider-Man_%28Stark_Enhanced%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20170722100121"
+  },
+  {
+   "id": "spider-man-stealth-suit",
+   "name": "Spider-Man (Stealth-Suit)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b7/Spider-Man_%28Stealth_Suit%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824214827"
+  },
+  {
+   "id": "spider-man-supreme",
+   "name": "Spider-Man (Supreme)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/e/e6/Spider-Man_%28Supreme%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20221012192822"
+  },
+  {
+   "id": "spider-man-symbiote",
+   "name": "Spider-Man (Symbiote)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6e/Spider-Man_%28Symbiote%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150912165012"
+  },
+  {
+   "id": "spider-punk",
+   "name": "Spider-Punk",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b3/Spider-Punk_portrait.png/revision/latest/scale-to-width-down/200?cb=20240412085057"
+  },
+  {
+   "id": "spider-slayer-j-jonah-jameson",
+   "name": "Spider-Slayer (J. Jonah Jameson)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/21/Spider-Slayer_%28J._Jonah_Jameson%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260110094643"
+  },
+  {
+   "id": "spider-woman",
+   "name": "Spider-Woman",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8a/Spider-Woman_%28Jessica_Drew%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20250411022835"
+  },
+  {
+   "id": "spiral",
+   "name": "Spiral",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3d/Spiral_portrait.png/revision/latest/scale-to-width-down/200?cb=20241114212640"
+  },
+  {
+   "id": "spot",
+   "name": "Spot",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Spot_portrait.png/revision/latest/scale-to-width-down/200?cb=20221012192749"
+  },
+  {
+   "id": "squirrel-girl",
+   "name": "Squirrel Girl",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ad/Squirrel_Girl_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824235013"
+  },
+  {
+   "id": "star-lord",
+   "name": "Star-Lord",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9a/Star-Lord_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075532"
+  },
+  {
+   "id": "star-lord-kitty-pryde",
+   "name": "Star-Lord (Kitty Pryde)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3f/Star-Lord_%28Kitty_Pryde%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065213"
+  },
+  {
+   "id": "star-lord-stellar-forged",
+   "name": "Star-Lord (Stellar Forged)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/96/Star-Lord_%28Stellar-Forged%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260106201008"
+  },
+  {
+   "id": "storm",
+   "name": "Storm",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c0/Storm_portrait.png/revision/latest/scale-to-width-down/200?cb=20250305233803"
+  },
+  {
+   "id": "storm-pyramid-x",
+   "name": "Storm (Pyramid X)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/15/Storm_%28Pyramid_X%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824232854"
+  },
+  {
+   "id": "stryfe",
+   "name": "Stryfe",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/17/Stryfe_portrait.png/revision/latest/scale-to-width-down/200?cb=20210110211705"
+  },
+  {
+   "id": "sunspot",
+   "name": "Sunspot",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/62/Sunspot_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824213059"
+  },
+  {
+   "id": "super-skrull",
+   "name": "Super-Skrull",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/56/Super-Skrull_portrait.png/revision/latest/scale-to-width-down/200?cb=20210201180429"
+  },
+  {
+   "id": "superior-iron-man",
+   "name": "Superior Iron Man",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/82/Superior_Iron_Man_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075813"
+  },
+  {
+   "id": "symbiote-supreme",
+   "name": "Symbiote Supreme",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/d1/Symbiote_Supreme_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824214700"
+  },
+  {
+   "id": "taskmaster",
+   "name": "Taskmaster",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/55/Taskmaster_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824221201"
+  },
+  {
+   "id": "terrax",
+   "name": "Terrax",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Terrax_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824222417"
+  },
+  {
+   "id": "thanos",
+   "name": "Thanos",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/74/Thanos_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830174115"
+  },
+  {
+   "id": "thanos-deathless",
+   "name": "Thanos (Deathless)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6d/Thanos_%28Deathless%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20250411031656"
+  },
+  {
+   "id": "the-champion",
+   "name": "The Champion",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5a/The_Champion_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824211525"
+  },
+  {
+   "id": "the-destroyer",
+   "name": "The Destroyer",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/31/The_Destroyer_portrait.png/revision/latest/scale-to-width-down/200?cb=20240317204139"
+  },
+  {
+   "id": "the-hood",
+   "name": "The Hood",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/df/The_Hood_portrait.png/revision/latest/scale-to-width-down/200?cb=20180922202726"
+  },
+  {
+   "id": "the-leader",
+   "name": "The Leader",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/42/The_Leader_portrait.png/revision/latest/scale-to-width-down/200?cb=20250120125325"
+  },
+  {
+   "id": "the-maker",
+   "name": "The Maker",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/ae/The_Maker_portrait.png/revision/latest/scale-to-width-down/200?cb=20250715205608"
+  },
+  {
+   "id": "the-overseer",
+   "name": "The Overseer",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/10/The_Overseer_portrait.png/revision/latest/scale-to-width-down/200?cb=20210531201310"
+  },
+  {
+   "id": "the-serpent",
+   "name": "The Serpent",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/bd/The_Serpent_portrait.png/revision/latest/scale-to-width-down/200?cb=20240412084826"
+  },
+  {
+   "id": "thing",
+   "name": "Thing",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Thing_portrait.png/revision/latest/scale-to-width-down/200?cb=20190111151819"
+  },
+  {
+   "id": "thing-victorious",
+   "name": "Thing (Victorious)",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/14/Thing_%28Victorious%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20261103065308"
+  },
+  {
+   "id": "thor",
+   "name": "Thor",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/6f/Thor_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075957"
+  },
+  {
+   "id": "thor-jane-foster",
+   "name": "Thor (Jane Foster)",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0f/Thor_%28Jane_Foster%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20220708201655"
+  },
+  {
+   "id": "thor-ragnarok",
+   "name": "Thor (Ragnarok)",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2a/Thor_%28Ragnarok%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20260604155336"
+  },
+  {
+   "id": "tigra",
+   "name": "Tigra",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Tigra_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824232331"
+  },
+  {
+   "id": "titania",
+   "name": "Titania",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/5/5f/Titania_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824220108"
+  },
+  {
+   "id": "toad",
+   "name": "Toad",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/8/8f/Toad_portrait.png/revision/latest/scale-to-width-down/200?cb=20220105220416"
+  },
+  {
+   "id": "ultron",
+   "name": "Ultron",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/41/Ultron_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080132"
+  },
+  {
+   "id": "ultron-classic",
+   "name": "Ultron (Classic)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/a/a7/Ultron_%28Classic%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20161009164857"
+  },
+  {
+   "id": "unstoppable-colossus",
+   "name": "Unstoppable Colossus",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/3/3c/Unstoppable_Colossus_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080204"
+  },
+  {
+   "id": "valkyrie",
+   "name": "Valkyrie",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4a/Valkyrie_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824220412"
+  },
+  {
+   "id": "venom",
+   "name": "Venom",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/4b/Venom_portrait.png/revision/latest/scale-to-width-down/200?cb=20241029142409"
+  },
+  {
+   "id": "venom-the-duck",
+   "name": "Venom The Duck",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/20/Venom_the_Duck_portrait.png/revision/latest/scale-to-width-down/200?cb=20181118094556"
+  },
+  {
+   "id": "venompool",
+   "name": "Venompool",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f8/Venompool_portrait.png/revision/latest/scale-to-width-down/200?cb=20161117034710"
+  },
+  {
+   "id": "vision",
+   "name": "Vision",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/7/78/Vision_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080239"
+  },
+  {
+   "id": "vision-aarkus",
+   "name": "Vision (Aarkus)",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/c/c9/Vision_%28Aarkus%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115105013"
+  },
+  {
+   "id": "vision-age-of-ultron",
+   "name": "Vision (Age of Ultron)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/19/Vision_%28Age_of_Ultron%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830075913"
+  },
+  {
+   "id": "vision-deathless",
+   "name": "Vision (Deathless)",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f3/Vision_%28Deathless%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20240713055050"
+  },
+  {
+   "id": "viv-vision",
+   "name": "Viv Vision",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/2/2c/Viv_Vision_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212123"
+  },
+  {
+   "id": "void",
+   "name": "Void",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Void_portrait.png/revision/latest/scale-to-width-down/200?cb=20180106181633"
+  },
+  {
+   "id": "vox",
+   "name": "Vox",
+   "class": "cosmic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/95/Vox_portrait.png/revision/latest/scale-to-width-down/200?cb=20230824212013"
+  },
+  {
+   "id": "vulture",
+   "name": "Vulture",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/90/Vulture_portrait.png/revision/latest/scale-to-width-down/200?cb=20170722100226"
+  },
+  {
+   "id": "war-machine",
+   "name": "War Machine",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f4/War_Machine_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080348"
+  },
+  {
+   "id": "warlock",
+   "name": "Warlock",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b5/Warlock_portrait.png/revision/latest/scale-to-width-down/200?cb=20190807141643"
+  },
+  {
+   "id": "wasp",
+   "name": "Wasp",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1f/Wasp_portrait.png/revision/latest/scale-to-width-down/200?cb=20180708105402"
+  },
+  {
+   "id": "wave",
+   "name": "Wave",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/91/Wave_portrait.png/revision/latest/scale-to-width-down/200?cb=20260504222648"
+  },
+  {
+   "id": "werewolf-by-night",
+   "name": "Werewolf By Night",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/43/Werewolf_By_Night_portrait.png/revision/latest/scale-to-width-down/200?cb=20231115112333"
+  },
+  {
+   "id": "white-tiger",
+   "name": "White Tiger",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/0/0d/White_Tiger_portrait.png/revision/latest/scale-to-width-down/200?cb=20240205233654"
+  },
+  {
+   "id": "wiccan",
+   "name": "Wiccan",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/1/1a/Wiccan_portrait.png/revision/latest/scale-to-width-down/200?cb=20220607151512"
+  },
+  {
+   "id": "winter-soldier",
+   "name": "Winter Soldier",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b9/Winter_Soldier_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080418"
+  },
+  {
+   "id": "wolverine",
+   "name": "Wolverine",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b4/Wolverine_portrait.png/revision/latest/scale-to-width-down/200?cb=20250212224940"
+  },
+  {
+   "id": "wolverine-weapon-x",
+   "name": "Wolverine (Weapon X)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/dc/Wolverine_%28Weapon_X%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20170214002124"
+  },
+  {
+   "id": "wolverine-x-23",
+   "name": "Wolverine (X 23)",
+   "class": "mutant",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/9/9e/Wolverine_%28X-23%29_portrait.png/revision/latest/scale-to-width-down/200?cb=20160317223849"
+  },
+  {
+   "id": "wong",
+   "name": "Wong",
+   "class": "mystic",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/f/f1/Wong_portrait.png/revision/latest/scale-to-width-down/200?cb=20220505220612"
+  },
+  {
+   "id": "yelena-belova",
+   "name": "Yelena Belova",
+   "class": "skill",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/d/de/Yelena_Belova_portrait.png/revision/latest/scale-to-width-down/200?cb=20250510042323"
+  },
+  {
+   "id": "yellowjacket",
+   "name": "Yellowjacket",
+   "class": "science",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/b/b1/Yellowjacket_portrait.png/revision/latest/scale-to-width-down/200?cb=20150830080630"
+  },
+  {
+   "id": "yondu",
+   "name": "Yondu",
+   "class": "tech",
+   "portrait": "https://static.wikia.nocookie.net/marvel-contestofchampions/images/6/67/Yondu_portrait.png/revision/latest/scale-to-width-down/200?cb=20170709021435"
+  }
+ ]
+}
